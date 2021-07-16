@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911335713112",
+    "project_id": "sawari-android",
+    "storage_bucket": "sawari-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911335713112:android:257606f35ce6092d33dd2d",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911335713112-q3g7r4modvgpc5io142le72vlhnelc1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_vvxDI7A1-UCXDCgE6qwH_0P4qPuFGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911335713112-q3g7r4modvgpc5io142le72vlhnelc1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
